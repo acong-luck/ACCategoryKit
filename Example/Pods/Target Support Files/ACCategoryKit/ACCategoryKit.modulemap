@@ -1,0 +1,6 @@
+framework module ACCategoryKit {
+  umbrella header "ACCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

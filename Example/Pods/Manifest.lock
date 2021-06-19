@@ -1,0 +1,16 @@
+PODS:
+  - ACCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - ACCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  ACCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ACCategoryKit: 1440878a4b2fcb120f3d6239076d622a8d372b7e
+
+PODFILE CHECKSUM: 8acb0ddd7a7b95e20021f279f39fcbef1c662b94
+
+COCOAPODS: 1.9.3
